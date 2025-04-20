@@ -56,7 +56,7 @@ function Partners({
                 <span
                   key={i}
                   className={`block h-1 cursor-pointer rounded-2xl transition-all content-[''] ${
-                    activeIndex === i ? "w-8 bg-purple-1500" : "w-4 bg-gray-600"
+                    activeIndex === i ? "w-8 bg-purple-500" : "w-4 bg-gray-600"
                   }`}
                   onClick={() => setActiveIndex(i)}
                 />
@@ -123,7 +123,7 @@ function Partners({
                 />
               </div>
               {p.imageTwo && (
-                <div className="w-52 h-52 bg-white p-2 flex justify-center items-center mx-auto overflow-hidden">
+                <div className="w-52 h-52 bg-black p-2 flex justify-center items-center mx-auto overflow-hidden">
                   <img
                     className="w-full h-full object-contain"
                     src={p.imageTwo}
