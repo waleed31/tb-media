@@ -27,7 +27,7 @@ function Partners({
 
         {/* Desktop view */}
         <div className="gap-4 justify-center flex-wrap hidden lg:flex">
-          {partners.slice(0, 5).map((p, i) => (
+          {partners.slice(0, 100).map((p, i) => (
             <div
               key={i}
               className="w-52 h-52 bg-white p-2 flex justify-center items-center overflow-hidden"

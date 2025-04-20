@@ -10,6 +10,7 @@ import {
   webDesignLottieOptions,
   WebDevelopmentLottieOptions,
 } from "./lottiesOptions";
+//import { ListItem } from "@material-tailwind/react";
 
 export const phoneNumber = "966575455328";
 
@@ -94,7 +95,8 @@ export const homePageFeatures = [
   },
 ];
 
-export const partners = ["/partner-1.jpg", "/partner-2.jpg", "/partner-3.jpg"];
+
+export const partners = [  "partner-4.png","partner-5.jpeg" ,"/partner-2.jpg", "/partner-3.jpg","/partner-1.jpg"];
 
 export const services = [
   {

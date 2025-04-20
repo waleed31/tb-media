@@ -8,7 +8,8 @@ function PartnersPage() {
         هؤلأ الشركاء
       </p>
 
-      <Partners bgColor="transparent" textColor="#ffffff" />
+      <Partners bgColor="transparent" textColor="#ffffff"/>
+    
     </>
   );
 }
