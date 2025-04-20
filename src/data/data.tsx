@@ -96,7 +96,7 @@ export const homePageFeatures = [
 ];
 
 
-export const partners = [  "partner-4.png","partner-5.jpeg" ,"/partner-2.jpg", "/partner-3.jpg","/partner-1.jpg"];
+export const partners = [  "partner-4.png","partner-5.jpeg" ,"/partner-2.jpg", "/partner-3.jpg","/partner-1.jpg","partner-6.jpg","partner-7.jpg","partner-8.jpg"];
 
 export const services = [
   {

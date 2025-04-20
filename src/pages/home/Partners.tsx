@@ -22,7 +22,7 @@ function Partners({
     <section className="py-20 text-black" style={{ backgroundColor: bgColor }}>
       <div className="container mx-auto" style={{ color: textColor }}>
         <ScrollAnimation animateIn="fadeInRight" animateOnce>
-          <SectionHeading title="شركاء النجاح" />
+          <SectionHeading title="من تعاوناتنا السابقة والحالية " />
         </ScrollAnimation>
 
         {/* Desktop view */}
@@ -56,7 +56,7 @@ function Partners({
                 <span
                   key={i}
                   className={`block h-1 cursor-pointer rounded-2xl transition-all content-[''] ${
-                    activeIndex === i ? "w-8 bg-purple-500" : "w-4 bg-gray-600"
+                    activeIndex === i ? "w-8 bg-purple-1500" : "w-4 bg-gray-600"
                   }`}
                   onClick={() => setActiveIndex(i)}
                 />
