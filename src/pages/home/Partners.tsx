@@ -30,7 +30,7 @@ function Partners({
           {partners.slice(0, 100).map((p, i) => (
             <div
               key={i}
-              className="w-52 h-52 bg-white p-2 flex justify-center items-center overflow-hidden"
+              className="w-52 h-52  p-2 flex justify-center items-center overflow-hidden"
             >
               <img
                 className="w-full h-full object-contain"
@@ -68,7 +68,7 @@ function Partners({
           children={partners.map((p, i) => (
             <div
               key={i}
-              className="w-52 h-52 bg-white p-2 flex justify-center items-center mx-auto overflow-hidden"
+              className="w-52 h-52  p-2 flex justify-center items-center mx-auto overflow-hidden"
             >
               <img
                 className="w-full h-full object-contain"
@@ -114,7 +114,7 @@ function Partners({
           autoplay={true}
           children={TabletPartners.map((p, i) => (
             <div className="flex" key={i}>
-              <div className="w-52 h-52 bg-white p-2 flex justify-center items-center mx-auto overflow-hidden">
+              <div className="w-52 h-52  p-2 flex justify-center items-center mx-auto overflow-hidden">
                 <img
                   className="w-full h-full object-contain"
                   src={p.imageOne}
@@ -123,7 +123,7 @@ function Partners({
                 />
               </div>
               {p.imageTwo && (
-                <div className="w-52 h-52 bg-white p-2 flex justify-center items-center mx-auto overflow-hidden">
+                <div className="w-52 h-52  p-2 flex justify-center items-center mx-auto overflow-hidden">
                   <img
                     className="w-full h-full object-contain"
                     src={p.imageTwo}
