@@ -58,7 +58,7 @@ function Home() {
                 </div>
                 <a
                   className="px-8 py-4 bg-purple-600 w-fit transition-all flex gap-4 items-center rounded-lg hover:opacity-80 hover:scale-110"
-                  href="https://wa.me/+966504421904"
+                  href="https://wa.me/+966575455328"
                   target="_blank"
                 >
                   اطلب خدمتك الان <LiaLinkSolid />
