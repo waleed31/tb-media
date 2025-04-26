@@ -30,7 +30,7 @@ function Partners({
           {partners.slice(0, 100).map((p, i) => (
             <div
               key={i}
-              className="w-52 h-52  p-2 flex justify-center items-center overflow-hidden"
+              className="w-40 h-21  p-2 flex justify-center items-center overflow-hidden"
             >
               <img
                 className="w-full h-full object-contain"
