@@ -1,6 +1,6 @@
 // this file is used to export all the text, icons, images used in the project
 
-import { FaFacebook, FaInstagram, FaLinkedin, FaTiktok } from "react-icons/fa";
+import { FaFacebook, FaInstagram, FaLinkedin, FaTiktok, FaYoutube } from "react-icons/fa";
 import { service, teamMember } from "../types";
 import {
   appDevelopmentLottieOptions,
@@ -19,18 +19,25 @@ export const socialLinks = [
     to: "https://www.tiktok.com/@tb.media_tec?_t=ZS-8uAP2isxbd3&_r=1",
     icon: <FaTiktok />,
   },
-  {
-    to: "https://www.facebook.com/profile.php?id=61573606581041&locale=ar_AR",
-    icon: <FaFacebook />,
-  },
+
   {
     to: "https://www.instagram.com/tb_media_1",
     icon: <FaInstagram />,
   },
   {
+    to: "https://www.facebook.com/profile.php?id=61573606581041&locale=ar_AR",
+    icon: <FaFacebook />,
+  },
+  {
     to: "https://www.linkedin.com/in/tb-media-tec-978b7b352/",
     icon: <FaLinkedin />,
   },
+
+  {
+    to: " https://www.youtube.com/@TBMedia-SA",
+    icon: <FaYoutube />
+  },
+  
 ];
 
 export const headerLinks = [
@@ -43,6 +50,11 @@ export const headerLinks = [
 
 export const headerSocialLinks = [
   {
+    to: "https://www.tiktok.com/@tb.media_tec?_t=ZS-8uAP2isxbd3&_r=1",
+    icon: <FaTiktok />,
+  },
+
+  {
     to: "https://www.instagram.com/tb_media_1",
     icon: <FaInstagram />,
   },
@@ -53,6 +65,11 @@ export const headerSocialLinks = [
   {
     to: "https://www.linkedin.com/in/tb-media-tec-978b7b352/",
     icon: <FaLinkedin />,
+  },
+
+  {
+    to: " https://www.youtube.com/@TBMedia-SA",
+    icon: <FaYoutube />
   },
 ];
 
