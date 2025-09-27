@@ -136,7 +136,7 @@ function ContactPage() {
                   <div className="w-1 h-10 bg-purple-500 absolute right-6 -bottom-10"></div>
                   <FaLocationDot />
                 </div>
-                <p>المملكة العربية السعودية، الدمام </p>
+                <p>نعمل أونلاين</p>
               </div>
               <div className="flex items-center gap-4">
                 <div className="rounded-full bg-purple-500 p-4 text-xl relative">
