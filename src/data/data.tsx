@@ -114,7 +114,7 @@ export const homePageFeatures = [
 
 
 export const partners = ["partner-9.png",  "partner-4.png","partner-5.png" ,"/partner-2.png",
-   "/partner-3.png","/partner-1.png","partner-6.png","partner-7.png","partner-10.png","partner-11.png","partner-12.png"];
+   "/partner-3.png","/partner-1.png","partner-6.png","partner-7.png","partner-10.png","partner-11.png","partner-12.png","partner-13.png"];
 
 export const services = [
   {
