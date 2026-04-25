@@ -12,7 +12,7 @@ import {
 } from "./lottiesOptions";
 //import { ListItem } from "@material-tailwind/react";
 
-export const phoneNumber = "966575455328";
+export const phoneNumber = "0504421904";
 
 export const socialLinks = [
   {
