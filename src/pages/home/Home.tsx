@@ -40,7 +40,7 @@ function Home() {
               </div>
               <p className="text-center text-base mb-10 md:text-xl">
                 <h1 className="text-center text-purple-500 text-2xl my-5 md:text-3xl">
-                  TB MEDIA
+                  TB MEDIATEC
                 </h1>
                 نحن هنا لنساعدك في تطوير وتحقيق أهدافك التجارية عبر الإنترنت من
                 خلال استراتيجيات تسويق رقمي مبتكرة وحلول فعالة على منصات
